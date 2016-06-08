@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\ClientDemo\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\Administrator\Desktop\ClientDemo\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\Administrator\Desktop\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.MainForm.resources
+C:\Users\Administrator\Desktop\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.exe
+C:\Users\Administrator\Desktop\ClientDemo\ClientDemo\obj\x86\Debug\ClientDemo.pdb
