@@ -6,7 +6,7 @@ using System.Xml;
 
 namespace ClientDemo
 {
-    class CuLoginRsp
+    public class CuLoginRsp
     {
         public string session;
 
@@ -17,12 +17,12 @@ namespace ClientDemo
         public string addr;
     }
 
-    class CuGetUserGroupsRsp
+    public class CuGetUserGroupsRsp
     {
         public string groupid;
     }
 
-    class CuGetFileRsp
+    public class CuGetFileRsp
     {
         public string xml;
         public Department deviceTree = new Department();
@@ -129,7 +129,7 @@ namespace ClientDemo
         }
     }
 
-    class CuRequestVideoRsp
+    public class CuRequestVideoRsp
     {
         public string ip;
         public string port;
@@ -147,14 +147,14 @@ namespace ClientDemo
         public string password;
     }
 
-    class CuHeartbeatRsp
+    public class CuHeartbeatRsp
     {
         public string unit;
         public string time;
         public string expires;
     }
 
-    class CuStopVideoRsp
+    public class CuStopVideoRsp
     {
         public string useless;
     }
